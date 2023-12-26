@@ -1,6 +1,7 @@
 
 <h3 align="center">Hi 👋, I'm oMayX-yr</h3>
-[![@adityaexec_](Hhtps)](https://konsol)
+
+[![oMayX-yr](https://github.com/oMayX-yr/oMayX-yr/blob/main/Images/Banner%20YouTube%20Modern%20Grunge%20%20Merah%20Tua%20Putih%20Hitam.png)](https://github.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omayx-yr&label=Profile%20views&color=0e75b6&style=flat" alt="omayx-yr" /> </p>
 
